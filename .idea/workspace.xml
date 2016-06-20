@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfb29be-71f5-4987-a8c2-141e6ce939cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/BigDough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/Dough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Factory.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/HaiTianSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/HuBeiFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/HubeiNoodles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/HubeiNoodlesStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/MaterialFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/Noodles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/NoodlesStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/src/main/java/QuickSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/src/main/java/SimpleSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/src/main/java/abstract_factory/Source.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern.iml" afterPath="$PROJECT_DIR$/DesignPattern.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Observer/Observer.iml" afterPath="$PROJECT_DIR$/Observer/Observer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Decorator/README.md" afterPath="$PROJECT_DIR$/Decorator/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strategy/Strategy.iml" afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Singleton/README.md" afterPath="$PROJECT_DIR$/Singleton/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -111,8 +85,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Singleton/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36305732">
-              <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.26624203">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -797,7 +771,7 @@
       <workItem from="1465958997905" duration="20000" />
       <workItem from="1465961529873" duration="15000" />
       <workItem from="1466164660415" duration="23000" />
-      <workItem from="1466385419710" duration="3631000" />
+      <workItem from="1466385419710" duration="3785000" />
     </task>
     <task id="LOCAL-00001" summary="change some spelling mistakes">
       <created>1465958849316</created>
@@ -811,11 +785,17 @@
       <option name="project" value="LOCAL" />
       <updated>1466164667864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Factory and Singleton&#10;">
+      <created>1466389074375</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466389074375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11278000" />
+    <option name="totallyTimeSpent" value="11432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -886,7 +866,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change some spelling mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="change some spelling mistakes" />
+    <MESSAGE value="add Factory and Singleton&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Factory and Singleton&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1318,8 +1299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Singleton/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36305732">
-          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.26624203">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding />
         </state>
       </provider>
