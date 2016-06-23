@@ -52,8 +52,16 @@
         <processorPath useClasspath="true" />
         <module name="Singleton" />
       </profile>
+      <profile default="false" name="Annotation profile for Command" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Command" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="Command" target="1.8" />
       <module name="Decorator" target="1.8" />
       <module name="DesignPattern" target="1.8" />
       <module name="Factory" target="1.8" />
