@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfb29be-71f5-4987-a8c2-141e6ce939cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/Command.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/src/main/java/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/src/main/java/Light.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/src/main/java/LightCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Command/README.md" afterPath="$PROJECT_DIR$/Command/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -847,7 +837,7 @@
       <workItem from="1465961529873" duration="15000" />
       <workItem from="1466164660415" duration="23000" />
       <workItem from="1466385419710" duration="3836000" />
-      <workItem from="1466676735741" duration="922000" />
+      <workItem from="1466676735741" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="change some spelling mistakes">
       <created>1465958849316</created>
@@ -873,11 +863,17 @@
       <option name="project" value="LOCAL" />
       <updated>1466389210584</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Factory and Singleton&#10;">
+      <created>1466677669483</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466677669483</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12405000" />
+    <option name="totallyTimeSpent" value="12427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -1154,6 +1150,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
