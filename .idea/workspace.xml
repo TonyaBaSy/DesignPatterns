@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfb29be-71f5-4987-a8c2-141e6ce939cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/src/main/java/EatFirst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/src/main/java/EatLast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/src/main/java/Template.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -74,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.2835821">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -1032,7 +1022,7 @@
       <workItem from="1466734418586" duration="8000" />
       <workItem from="1466742462013" duration="46000" />
       <workItem from="1466990987947" duration="1430000" />
-      <workItem from="1467163401987" duration="1908000" />
+      <workItem from="1467163401987" duration="2004000" />
     </task>
     <task id="LOCAL-00001" summary="change some spelling mistakes">
       <created>1465958849316</created>
@@ -1076,11 +1066,17 @@
       <option name="project" value="LOCAL" />
       <updated>1466677778194</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add TemplateMethod&#10;">
+      <created>1467165329982</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1467165329982</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15891000" />
+    <option name="totallyTimeSpent" value="15987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -1153,7 +1149,8 @@
     <MESSAGE value="change some spelling mistakes" />
     <MESSAGE value="add Factory and Singleton&#10;" />
     <MESSAGE value="add Command&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Command&#10;" />
+    <MESSAGE value="add TemplateMethod&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TemplateMethod&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1559,7 +1556,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2835821">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding />
         </state>
       </provider>

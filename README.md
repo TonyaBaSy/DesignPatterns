@@ -6,4 +6,4 @@
 4.  [工程模式](./Factory)
 5.  [单例模式](./Singleton)
 6.  [命令模式](./Command)
-7.  [模板方法模式](/.TemplateMethod)
+7.  [模板方法模式](./TemplateMethod)
