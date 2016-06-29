@@ -59,6 +59,13 @@
         <processorPath useClasspath="true" />
         <module name="Command" />
       </profile>
+      <profile default="false" name="Annotation profile for TemplateMethod" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="TemplateMethod" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="Command" target="1.8" />
@@ -68,6 +75,7 @@
       <module name="Observer" target="1.8" />
       <module name="Singleton" target="1.8" />
       <module name="Strategy" target="1.8" />
+      <module name="TemplateMethod" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

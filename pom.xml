@@ -15,6 +15,7 @@
         <module>Factory</module>
         <module>Singleton</module>
         <module>Command</module>
+        <module>TemplateMethod</module>
     </modules>
 
     <build>
