@@ -16,6 +16,7 @@
         <module>Singleton</module>
         <module>Command</module>
         <module>TemplateMethod</module>
+        <module>IteratorPattern</module>
     </modules>
 
     <build>
