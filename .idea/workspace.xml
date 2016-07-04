@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfb29be-71f5-4987-a8c2-141e6ce939cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/trap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/src/main/java/Leaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/src/main/java/Middle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/src/main/java/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompositePattern/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CompositePattern/README.md" afterPath="$PROJECT_DIR$/CompositePattern/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPattern.iws" />
@@ -90,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/CompositePattern/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.18700787">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -1152,7 +1141,7 @@
       <workItem from="1466990987947" duration="1430000" />
       <workItem from="1467163401987" duration="2730000" />
       <workItem from="1467280416194" duration="1802000" />
-      <workItem from="1467594706811" duration="2422000" />
+      <workItem from="1467594706811" duration="2508000" />
     </task>
     <task id="LOCAL-00001" summary="change some spelling mistakes">
       <created>1465958849316</created>
@@ -1232,11 +1221,17 @@
       <option name="project" value="LOCAL" />
       <updated>1467282144451</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add composite pattern&#10;">
+      <created>1467597146807</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1467597146807</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20937000" />
+    <option name="totallyTimeSpent" value="21023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -1312,7 +1307,8 @@
     <MESSAGE value="add TemplateMethod&#10;" />
     <MESSAGE value="correct some spelling mistakes&#10;" />
     <MESSAGE value="add iterator pattern&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add iterator pattern&#10;" />
+    <MESSAGE value="add composite pattern&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add composite pattern&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1737,7 +1733,7 @@
     <entry file="file://$PROJECT_DIR$/CompositePattern/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18700787">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
