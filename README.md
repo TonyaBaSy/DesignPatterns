@@ -7,3 +7,5 @@
 5.  [单例模式](./Singleton)
 6.  [命令模式](./Command)
 7.  [模板方法模式](./TemplateMethod)
+8.  [迭代器模式](./IteratorPattern)
+9.  [组合模式](./CompositePattern)

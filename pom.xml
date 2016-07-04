@@ -17,6 +17,7 @@
         <module>Command</module>
         <module>TemplateMethod</module>
         <module>IteratorPattern</module>
+        <module>CompositePattern</module>
     </modules>
 
     <build>
