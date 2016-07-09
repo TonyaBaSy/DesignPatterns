@@ -18,6 +18,7 @@
         <module>TemplateMethod</module>
         <module>IteratorPattern</module>
         <module>CompositePattern</module>
+        <module>StatePattern</module>
     </modules>
 
     <build>

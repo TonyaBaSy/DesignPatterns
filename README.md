@@ -9,3 +9,4 @@
 7.  [模板方法模式](./TemplateMethod)
 8.  [迭代器模式](./IteratorPattern)
 9.  [组合模式](./CompositePattern)
+10. [状态模式](./StatePattern)
