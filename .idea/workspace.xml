@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfb29be-71f5-4987-a8c2-141e6ce939cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/define.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Command/README.md" afterPath="$PROJECT_DIR$/Command/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -107,8 +106,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Command/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37401575">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.5885827">
+              <caret line="66" column="95" selection-start-line="66" selection-start-column="95" selection-end-line="66" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -864,7 +863,7 @@
       <workItem from="1467280416194" duration="1802000" />
       <workItem from="1467594706811" duration="2741000" />
       <workItem from="1467611049370" duration="22000" />
-      <workItem from="1468051934463" duration="5781000" />
+      <workItem from="1468051934463" duration="6313000" />
     </task>
     <task id="LOCAL-00001" summary="change some spelling mistakes">
       <created>1465958849316</created>
@@ -968,11 +967,17 @@
       <option name="project" value="LOCAL" />
       <updated>1468057320569</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="modify command pattern&#10;">
+      <created>1468057726818</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1468057726818</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27059000" />
+    <option name="totallyTimeSpent" value="27591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1292" height="1000" extended-state="0" />
@@ -1054,7 +1059,8 @@
     <MESSAGE value="add composite pattern&#10;" />
     <MESSAGE value="add state pattern&#10;" />
     <MESSAGE value="add proxy pattern&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add proxy pattern&#10;" />
+    <MESSAGE value="modify command pattern&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify command pattern&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1555,8 +1561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Command/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37401575">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.5885827">
+          <caret line="66" column="95" selection-start-line="66" selection-start-column="95" selection-end-line="66" selection-end-column="95" />
           <folding />
         </state>
       </provider>
