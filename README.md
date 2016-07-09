@@ -10,3 +10,4 @@
 8.  [迭代器模式](./IteratorPattern)
 9.  [组合模式](./CompositePattern)
 10. [状态模式](./StatePattern)
+11. [代理模式](./Proxy)

@@ -19,6 +19,7 @@
         <module>IteratorPattern</module>
         <module>CompositePattern</module>
         <module>StatePattern</module>
+        <module>Proxy</module>
     </modules>
 
     <build>

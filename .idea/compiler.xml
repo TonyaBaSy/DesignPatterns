@@ -87,6 +87,12 @@
         <processorPath useClasspath="true" />
         <module name="StatePattern" />
       </profile>
+      <profile default="false" name="Annotation profile for Proxy" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="Command" target="1.8" />
@@ -96,6 +102,7 @@
       <module name="Factory" target="1.8" />
       <module name="IteratorPattern" target="1.8" />
       <module name="Observer" target="1.8" />
+      <module name="Proxy" target="1.8" />
       <module name="Singleton" target="1.8" />
       <module name="StatePattern" target="1.8" />
       <module name="Strategy" target="1.8" />
