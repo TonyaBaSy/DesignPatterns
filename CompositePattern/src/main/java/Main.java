@@ -4,7 +4,7 @@
 public class Main {
     public static void main(String[] args) {
         Tree[] trees = new Tree[7];
-        trees[0] = new Middle("root");
+        trees[0] = new Middle("DesignPatterns");
         trees[1] = new Middle("left");
         trees[2] = new Middle("right");
         trees[3] = new Leaf("left-1");
